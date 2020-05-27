@@ -17,6 +17,7 @@ import Exchange from './components/Exchange';
 import axios from 'axios';
 
 axios.defaults.baseURL = 'http://192.168.0.3:3001';
+// axios.defaults.baseURL = 'http://localhost:3001';
 // axios.defaults.baseURL = 'http://104.248.144.234:3001/';
 
 // axios.defaults.headers.common['Authorization'] = AUTH_TOKEN;

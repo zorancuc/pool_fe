@@ -221,7 +221,7 @@ class MainPage extends Component {
 													data-target="#modalForm1"
 													// onClick={this.kakaoBtnClick}
 												>
-													<a href = "http://192.168.0.3:3001/api/auth/loginKakao" > Log in with Kakao talk </a>
+													<a href = "/api/auth/loginKakao" > Log in with Kakao talk </a>
 												</button>
 											</div>
 											{/* <div className="form-group">
